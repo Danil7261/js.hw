@@ -18,17 +18,26 @@
 
 // let firstName = 'Bob';
 
-// lastName[0]
-// console.log(lastName[0])
-// console.log(lastName[1])
-// console.log(lastName[2])
-// console.log(lastName[3])
-// console.log(lastName[4])
-// let lenght = lastName.lenght
-// console.log(lenght)
+// // lastName[0]
+// // console.log(lastName[0])
+// // console.log(lastName[1])
+// // console.log(lastName[2])
+// // console.log(lastName[3])
+// // console.log(lastName[4])
+// // let lenght = lastName.lenght
+// // console.log(lenght)
 
-// // let userName = firstName + lastName
-// // console.log(lastName.lenght)
-// console.log(lastName.length)
+// // // let userName = firstName + lastName
+// // // console.log(lastName.lenght)
+// // console.log(lastName.length)
 // let value = firstName.indexOf('B');
 // console.log(value);
+// Сравнение или приведение типов
+// 5+5//10
+// "5"+5//55
+// "5"==5//true
+let a = true;
+let b = true;
+console.log(3 || 5)
+
+// console.log(30 && 5)
