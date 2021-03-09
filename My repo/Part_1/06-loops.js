@@ -18,16 +18,16 @@
 // for(let i = 1; i <= 10; i += 1){
 //     console.log(i)
 // }
-for(let i = 0; i <= 10; i += 1){
-    if (i == 3) {
-        console.log('My favorite number ', i);
-        continue
-    }
+// for(let i = 0; i <= 10; i += 1){
+//     if (i == 3) {
+//         console.log('My favorite number ', i);
+//         continue
+//     }
 
-    // if (i == 6){
-    //     console.log(i)
-    //     break;
-    // }
+//     // if (i == 6){
+//     //     console.log(i)
+//     //     break;
+//     // }
 
-    console.log('Number ', i);
-}
+//     console.log('Number ', i);
+// }

@@ -1,2 +1,2 @@
 
-allert('Hell from app.js') 
+// allert('Hell from app.js') 
